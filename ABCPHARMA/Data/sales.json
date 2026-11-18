@@ -1,0 +1,29 @@
+[
+  {
+    "Id": "23e4143c-59cf-4ef1-b73d-f2fb8bda7a1f",
+    "MedicineId": "985cf83c-8535-47ca-ae17-0f3b464170bf",
+    "MedicineName": "Paracetamol 500mg",
+    "Quantity": 3,
+    "UnitPrice": 25.50,
+    "TotalAmount": 76.50,
+    "SoldAt": "2026-11-18T17:19:17.7398047Z"
+  },
+  {
+    "Id": "2884c61d-8c4f-4e6a-bf75-6696347332a3",
+    "MedicineId": "985cf83c-8535-47ca-ae17-0f3b464170bf",
+    "MedicineName": "Paracetamol 500mg",
+    "Quantity": 1,
+    "UnitPrice": 25.50,
+    "TotalAmount": 25.50,
+    "SoldAt": "2026-11-18T17:24:54.001887Z"
+  },
+  {
+    "Id": "ad15b80f-72bc-40d8-abb0-5a890d670a68",
+    "MedicineId": "c35bbf19-5df1-4881-ae46-9b5753e9181a",
+    "MedicineName": "Dolo 650",
+    "Quantity": 1,
+    "UnitPrice": 32.5,
+    "TotalAmount": 32.5,
+    "SoldAt": "2026-11-18T18:31:14.7755155Z"
+  }
+]

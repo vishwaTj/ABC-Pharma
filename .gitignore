@@ -1,0 +1,23 @@
+
+# .NET build files
+**/bin/
+**/obj/
+
+# Visual Studio
+.vs/
+*.user
+*.suo
+
+# Angular dependencies and build output
+**/node_modules/
+**/dist/
+**/.angular/
+
+# Environment and local configuration
+.env
+.env.*
+!.env.example
+
+# OS files
+.DS_Store
+Thumbs.db

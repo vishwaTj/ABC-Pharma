@@ -1,0 +1,20 @@
+.dialog-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 8px 16px 12px;
+}
+
+.dialog-header h2 {
+  margin: 0;
+}
+
+.sales-table {
+  width: 100%;
+}
+
+.empty-message {
+  text-align: center;
+  padding: 20px;
+  color: #777;
+}

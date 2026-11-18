@@ -1,0 +1,38 @@
+[
+  {
+    "Id": "985cf83c-8535-47ca-ae17-0f3b464170bf",
+    "FullName": "Paracetamol 500mg",
+    "Notes": "Used for fever and mild pain",
+    "ExpiryDate": "2027-12-31T00:00:00",
+    "Quantity": 46,
+    "Price": 25.50,
+    "Brand": "Cipla"
+  },
+  {
+    "Id": "f447b7a0-de96-4ab3-80f9-21af575c294e",
+    "FullName": "Cetirizine 10mg",
+    "Notes": "Antihistamine",
+    "ExpiryDate": "2027-08-15T00:00:00",
+    "Quantity": 5,
+    "Price": 12.75,
+    "Brand": "Dr. Reddy\u0027s"
+  },
+  {
+    "Id": "77a769b6-d596-4202-98fd-9a0475f7b494",
+    "FullName": "Amoxicillin 250mg",
+    "Notes": "Antibiotic",
+    "ExpiryDate": "2026-12-05T00:00:00",
+    "Quantity": 30,
+    "Price": 45.00,
+    "Brand": "Sun Pharma"
+  },
+  {
+    "Id": "c35bbf19-5df1-4881-ae46-9b5753e9181a",
+    "FullName": "Dolo 650",
+    "Notes": "Used for fever and pain relief",
+    "ExpiryDate": "2027-12-31T00:00:00",
+    "Quantity": 99,
+    "Price": 32.5,
+    "Brand": "Micro Labs"
+  }
+]
